@@ -1,0 +1,62 @@
+.container{
+    width: 500px;
+    margin: 0 auto;
+}
+
+.smile{
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+    background-color: yellow;
+    margin-top: 100px;
+}
+
+
+.firsteye{
+    position: absolute;
+    width: 106px;
+    height: 106px;
+    background-color: white;
+    border-radius: 50%;
+    margin-top: 82px;
+    margin-left: 68px;
+}
+
+
+.secondeye{
+    position: absolute;
+    width: 106px;
+    height: 106px;
+    background-color: white;
+    border-radius: 50%;
+    margin-top: 79px;
+    margin-left: 222px;
+}
+
+
+
+.pupil{
+    position: absolute;
+    width: 46px;
+    height: 46px;
+    background-color: black;
+    border-radius: 50%;
+    top: 54px;
+    left: 54px;
+    transform: translate(-50%, -50%);
+}
+
+
+.mouse{
+    position: absolute;
+    background-color: red;
+    width: 176px;
+    height: 78px;
+    margin-top: 257px;
+    margin-left: 118px;
+    border-radius: 0px 0px 247px 247px;
+}
+
+
+
+
